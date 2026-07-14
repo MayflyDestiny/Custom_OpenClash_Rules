@@ -34,10 +34,10 @@ DOMAIN-SUFFIX,cg51.com
 # Sider-AI
 DOMAIN-SUFFIX,sider.ai
 # MDC-NG
-- DOMAIN-SUFFIX,airav.io
-- DOMAIN-SUFFIX,avbase.net
-- DOMAIN-SUFFIX,avmoo.website
-- DOMAIN-SUFFIX,avsox.click
+DOMAIN-SUFFIX,airav.io
+DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,avmoo.website
+DOMAIN-SUFFIX,avsox.click
 
 
 # 以下域名待提交 PR
